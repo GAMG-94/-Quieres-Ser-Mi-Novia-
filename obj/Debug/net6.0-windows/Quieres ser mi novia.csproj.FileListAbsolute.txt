@@ -1,0 +1,18 @@
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.exe
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.deps.json
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.runtimeconfig.json
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.dll
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\bin\Debug\net6.0-windows\Quieres ser mi novia.pdb
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.csproj.AssemblyReference.cache
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres_ser_mi_novia.Form1.resources
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres_ser_mi_novia.Properties.Resources.resources
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.csproj.GenerateResource.cache
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.GeneratedMSBuildEditorConfig.editorconfig
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.AssemblyInfoInputs.cache
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.AssemblyInfo.cs
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.csproj.CoreCompileInputs.cache
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.dll
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\refint\Quieres ser mi novia.dll
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.pdb
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\Quieres ser mi novia.genruntimeconfig.cache
+G:\Geovanny\Proyectos\Proyecto 8\Quieres ser mi novia\obj\Debug\net6.0-windows\ref\Quieres ser mi novia.dll
